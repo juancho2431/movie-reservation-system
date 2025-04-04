@@ -79,12 +79,6 @@ Puedes usar **MySQL** para levantarla y conectarla con tu archivo `.env`.
 
 ---
 
-## 📸 Capturas
-
-> Puedes agregar aquí imágenes del dashboard, formulario de reserva, tablas de clientes, etc.
-
----
-
 ## ✨ Autor
 
 **Juan Felipe**  
